@@ -9,7 +9,7 @@
 .container {
   min-height: 500px;
   background: var(--container-color);
-  padding: 20px 0;
+  padding: 20px 40px;
 }
 .media {
   padding: 0;
